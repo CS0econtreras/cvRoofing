@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header>
+    <header class="topHeader">
       <h1>CV Roofing</h1>
-      <nav>
+      <nav class="header-nav">
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>
