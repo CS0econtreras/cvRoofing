@@ -49,6 +49,7 @@
 }
 
 .header-info {
+  background-color: #111;
   display: flex;
   justify-content: center;
 }
@@ -79,6 +80,8 @@
   background-color: #111;
 }
 
+.services {
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
