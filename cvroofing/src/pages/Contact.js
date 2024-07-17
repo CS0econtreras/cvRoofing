@@ -17,7 +17,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData, 'YOUR_USER_ID')
+    emailjs.send('service_thpe8ji', 'template_qv71f38', formData, 'FK3zYr6_S9SnnIHx5')
       .then((response) => {
         console.log('SUCCESS!', response.status, response.text);
       }, (err) => {

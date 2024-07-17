@@ -25,13 +25,13 @@ const Home = () => {
         />
       </div>
         <p id="hyperlink" style={{ fontSize: '12px' }}>
-          Visit 
+          Visit  
           <a href="https://www.facebook.com/cvroofing970/" 
           target="_blank" 
           rel="noopener noreferrer" 
           style={{ color: 'blue', textDecoration: 'underline' }}
           title="Go to https://www.facebook.com/cvroofing970/">
-            CV Roofing Facebook
+            CV Roofing Facebook 
           </a> 
           for more information.
         </p>
