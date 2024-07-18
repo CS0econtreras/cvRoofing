@@ -9,6 +9,7 @@ import Contact from './pages/Contact';
 import './App.css';
 import './index.css';
 
+
 const App = () => {
   return (
     <Router>
